@@ -32,7 +32,7 @@ DEBUG = True
 
 # settings.py
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangoapi-8xva.onrender.com']
 
 
 # Application definition
