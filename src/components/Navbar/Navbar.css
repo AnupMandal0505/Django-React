@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    color: black;
+    font-weight: bold;
+    background-color: white;
+    border-bottom: 1px solid black;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.4); /* Adjust the values as needed */
+
+}
+
+.navbar .navbar-nav li a{
+    color: black;
+    text-decoration: none;
+    margin: 15px;
+    margin-bottom: 0;
+}
+
+
+.navbar .btn{
+    width: 10%;
+}
